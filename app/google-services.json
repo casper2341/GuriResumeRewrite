@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "738700090825",
+    "project_id": "guriresumerewrite",
+    "storage_bucket": "guriresumerewrite.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738700090825:android:eaca24a3bb9aa560e0dc18",
+        "android_client_info": {
+          "package_name": "com.guri.guriresumerewrite"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1FWYVbhoBpF2l4U5833lUQ3y5D6kSp6s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
