@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<defaultsMap>
+    <entry>
+        <key>model</key>
+        <value>gemini-2.0-flash</value>
+    </entry>
+    <entry>
+        <key>prompt</key>
+        <value>Scan this pdf file and give advice what all to improve in this resume so that i can get better job opportunities in 150 words and 5 points and if you scan this file and feel this is not a resume just say Oops sorry looks like it is not a resume so i can`t give you resume advice</value>
+    </entry>
+</defaultsMap>

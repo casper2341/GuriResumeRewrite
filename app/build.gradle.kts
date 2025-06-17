@@ -60,6 +60,8 @@ dependencies {
     implementation(platform("com.google.firebase:firebase-bom:33.14.0"))
     implementation("com.google.firebase:firebase-ai")
     implementation("com.google.firebase:firebase-analytics")
+    implementation("com.google.code.gson:gson:2.10.1")
+    implementation(libs.firebase.config)
     implementation(libs.androidx.core.ktx)
     implementation(libs.androidx.lifecycle.runtime.ktx)
     implementation(libs.androidx.activity.compose)
